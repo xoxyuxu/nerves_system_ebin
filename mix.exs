@@ -75,7 +75,6 @@ defmodule NervesSystemEbin.MixProject do
       "fwup_include",
       "rootfs_overlay",
       "CHANGELOG.md",
-      "cmdline.txt",
       "fwup-revert.conf",
       "fwup.conf",
       "LICENSE",
